@@ -48,3 +48,5 @@ gaitober" => "gato"
 ### Contruido por:
 - Michael Jonathan Torres Torres <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjtorrest01)
+
+theme: minima
